@@ -25,3 +25,4 @@ application-test.properties
 # Sistema operativo
 .DS_Store
 Thumbs.db
+/git_toolbox_prj.xml
